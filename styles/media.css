@@ -8,12 +8,12 @@ main {
 }
 
 h2 {
-    font-size: 38px;
+    font-size: 38 px;
 }
 
 form{
     margin: 0 auto;
-    width: 100%;
+    width: 100 %;
 }
 input {
     align-self: center;
